@@ -1,4 +1,4 @@
-Hello World
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldchip)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 coldchip/coldchip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
