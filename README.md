@@ -1,4 +1,4 @@
-    ryan@coldchip~$ sudo apt-get moo`
+    ryan@coldchip~$ sudo apt-get moo
                      (__) 
                      (oo) 
                /------\/ 
