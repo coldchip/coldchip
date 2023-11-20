@@ -1,9 +1,1 @@
-    ryan@coldchip~$ sudo apt-get moo
-                     (__) 
-                     (oo) 
-               /------\/ 
-              / |    ||   
-             *  /\---/\ 
-                ~~   ~~   
-    ..."Have you mooed today?"...
-
+i quit coding
